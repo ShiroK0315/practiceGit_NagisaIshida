@@ -1,1 +1,1 @@
-# practiceGit_NagisaIshida
+# GitHub練習
